@@ -1,0 +1,17 @@
+{
+  "author": "Lin Gui <guileen AT gmail dot com>",
+  "name": "lua",
+  "description": "node lua binding",
+  "version": "0.0.1",
+  "homepage": "http://guileen.github.com/node-lua",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guileen/node-lua.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
